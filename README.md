@@ -5,5 +5,5 @@ This package is meant to demonstrate how to use the [Donate Spec](https://github
 Though not incredibly useful, this package does actually return if the given number is not NaN.
 
 Inspired by these similarly useful packages:
-https://github.com/jezen/is-thirteen
-https://github.com/jonschlinkert/is-even
+* https://github.com/jezen/is-thirteen
+* https://github.com/jonschlinkert/is-even
