@@ -1,0 +1,14 @@
+{
+  "name": "is-not-nan",
+  "version": "1.0.0",
+  "description": "Returns true if the given number is not NaN",
+  "main": "index.js",
+  "repository": "https://github.com/pastudan/is-not-nan",
+  "author": "Dan Pastusek",
+  "license": "MIT",
+  "private": false,
+  "donate": {
+    "platform": "Thanks",
+    "address": "https://givethanks.app/u/pastudan"
+  }
+}
