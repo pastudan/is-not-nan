@@ -1,6 +1,6 @@
 {
   "name": "is-not-nan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns true if the given number is not NaN",
   "main": "index.js",
   "repository": "https://github.com/pastudan/is-not-nan",
